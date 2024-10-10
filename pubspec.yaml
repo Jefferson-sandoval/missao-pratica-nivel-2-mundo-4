@@ -1,0 +1,14 @@
+name: explore_mundo
+description: A new Flutter project.
+
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.2.0
+
+flutter:
+  assets:
+    - images/lake.jpg
